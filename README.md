@@ -1,6 +1,6 @@
 # Real Estate Dashboard
 * Dash application that lets you input any city or town in the US, and display real estate + crime data (webscrapes information from [Neighborhoodscout.com](https://www.neighborhoodscout.com/))
-* [Click here for demo](https://docs.google.com/presentation/d/1Aol1JXml5HKEuqSpYzCUnq3SgBznF9hcgwXZtbkWAhM/edit?usp=sharing)
+* [Click here for quick demo presentation](https://docs.google.com/presentation/d/1Aol1JXml5HKEuqSpYzCUnq3SgBznF9hcgwXZtbkWAhM/edit?usp=sharing)
 
 # Dependencies
 * python >= 3.8
